@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.column {
+    width: 50%;
+
+}
+
+.columnText {
+    padding: 30px;
+
+
+
+
+}
+
+h1 {
+    font-size: 55px;
+    font-family: Roboto, sans-serif;
+    margin-top: 60px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 30px;
+    text-align: justify;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.arrow-wrapper {
+    text-align: right;
+}
+
+.arrow-wrapper svg {
+    width: 64px;
+}
