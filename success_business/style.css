@@ -1,0 +1,17 @@
+.container{
+   margin : 0 auto;
+   width: 960px;
+}
+
+.row{
+    display:flex;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.column{
+    width: 50%;
+}
