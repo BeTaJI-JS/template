@@ -1,17 +1,38 @@
-.container{
-   margin : 0 auto;
-   width: 960px;
+.container {
+    margin: 0 auto;
+    width: 960px;
 }
 
-.row{
-    display:flex;
+.row {
+    display: flex;
+    
 }
 
-header{
+header {
     display: flex;
     justify-content: space-between;
+
 }
 
-.column{
-    width: 50%;
+h1 {
+    margin: 17px;
+    color: rgb(172, 26, 172);
+    font-family:Oswald, sans-serif !important;
+    font-size: 4rem;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.content {
+    margin: 10px;
+    width: 100%;
+    font-family: Oswald, sans-serif;
+    font-style: italic;
+}
+
+.picture img{
+    width: 100%;
+    margin-top: 110px;
+    border:  12px solid rgb(248, 192, 9);
+    border-radius: 50%;
 }
