@@ -1,6 +1,10 @@
 body {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  text-transform: uppercase;
 }
 
 .container {
@@ -15,7 +19,7 @@ body {
   border-radius: 50%;
   width: 160px;
   height: 160px;
-  background-color: #d1fa3b;
+  background-color: #363b22;
 }
 
 .column {
@@ -36,17 +40,13 @@ body {
   border-radius: 50%;
 }
 
-h1 {
-  text-transform: uppercase;
-}
-
 .text {
   text-align: justify;
   line-height: 50px;
 }
 
 .text-footer a {
-  color: white;
+  color: black;
 }
 
 .social-icons svg {
