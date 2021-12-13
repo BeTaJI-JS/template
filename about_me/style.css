@@ -1,6 +1,6 @@
 body {
-  background-color: white;
-  color: black;
+  background-color: black;
+  color: white;
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
   border-radius: 50%;
   width: 160px;
   height: 160px;
-  background-color: #363b22;
+  background-color: #d1fa3b;
 }
 
 .column {
@@ -46,7 +46,7 @@ h1 {
 }
 
 .text-footer a {
-  color: black;
+  color: white;
 }
 
 .social-icons svg {
