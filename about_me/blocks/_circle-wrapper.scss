@@ -1,0 +1,20 @@
+.circle-wrapper{
+    
+}
+
+.circle-wrapper_right{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.circle-wrapper__item{
+    border-radius: 50%;
+    width: 160px;
+    height: 160px;
+    background-color: $circle-color;
+}
+
+.circle-wrapper__item_up-20{
+    margin-top: -20px;
+}
+

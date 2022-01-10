@@ -1,0 +1,11 @@
+.article {}
+
+.article__title {
+    text-transform: uppercase;
+
+}
+
+.article__text{
+    text-align: justify;
+    line-height: 5*$spacing;
+}

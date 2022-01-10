@@ -1,0 +1,20 @@
+.row {
+    display: flex;
+}
+
+.row__col {
+    flex: 1;
+}
+
+.row__col_content {
+    padding: 3*$spacing;
+
+}
+
+.row__col_pt-40 {
+    padding-top: 40px;
+}
+
+.row__col_pb-40 {
+    padding-bottom: 40px;
+}
